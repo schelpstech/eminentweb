@@ -192,7 +192,7 @@ include 'inc/head.php';
                         <div class="ekms-contact-card mt--30">
                             <h4 class="title">Admissions Desk</h4>
                             <p class="desc mb--5"><a href="tel:+2348069025521">+234 8069 025 521</a></p>
-                            <p class="desc mb--5"><a href="tel:+2348089008854">+234 8089 008 854</a></p>
+                            <p class="desc mb--5"><a href="tel:+2348098008854">+234 809 800 8854</a></p>
                             <p class="desc"><a href="mailto:info@eminentkidsschool.com">info@eminentkidsschool.com</a></p>
                         </div>
                     </div>

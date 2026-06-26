@@ -44,7 +44,7 @@
                         <div class="icon mb--20"><img src="assets/images/icon/phone.svg" alt=""></div>
                         <h4>Phone</h4>
                         <p class="desc mb--5"><a href="tel:+2348069025521">+234 8069 025 521</a></p>
-                        <p class="desc mb--0"><a href="tel:+2348089008854">+234 8089 008 854</a></p>
+                        <p class="desc mb--0"><a href="tel:+2348089008854">+234 809 800 8854</a></p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -72,7 +72,7 @@
                             <h3>Find us in Mowe, Ogun State</h3>
                             <ul class="ekms-contact-side-list">
                                 <li><i class="fa-solid fa-location-dot"></i> 1, 3 &amp; 6 Ezekiel Salako Street, Glorious Estate, Olope Meji, Mowe.</li>
-                                <li><i class="fa-solid fa-phone"></i> +234 8069 025 521</li>
+                                <li><i class="fa-solid fa-phone"></i> +234 809 800 8854</li>
                                 <li><i class="fa-solid fa-envelope"></i> info@eminentkidsschool.com</li>
                             </ul>
                             <a class="rts-btn btn-primary2" href="https://www.google.com/maps/search/?api=1&amp;query=Eminent%20Kids%20Montessori%20School%20Mowe" target="_blank" rel="noopener">Open Map</a>

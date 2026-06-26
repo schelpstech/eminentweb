@@ -3,8 +3,8 @@
 return [
     'smtp' => [
         'host' => 'mail.eminentkidsschool.com',
-        'port' => 587,
-        'encryption' => 'tls', // tls, ssl, or none
+        'port' => 465,
+        'encryption' => 'ssl', // tls, ssl, or none
         'username' => 'enquiry@eminentkidsschool.com',
         'password' => 'CHANGE_THIS_PASSWORD',
         'timeout' => 20,

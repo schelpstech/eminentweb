@@ -45,7 +45,7 @@
 
                                    <li>
                                        <i class="fa-regular fa-phone"></i>
-                                       <a href="tel:+2348089008854">+234 8089 008 854</a>
+                                       <a href="tel:+2348089008854">+234 809 800 8854</a>
                                    </li>
 
                                    <li>

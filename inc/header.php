@@ -11,7 +11,7 @@
                         <i class="fa-light fa-envelope"></i> info@eminentkidsschool.com
                     </a>
                     <a href="tel:+2348089008854" class="email">
-                        <i class="fa-light fa-phone"></i> +234 8089 008 854
+                        <i class="fa-light fa-phone"></i> +234 809 800 8854
                     </a>
                 </div>
 
