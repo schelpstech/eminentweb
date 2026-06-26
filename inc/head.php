@@ -8,25 +8,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO -->
-    <title>Eminent Kids Montessori Schools | Nurturing Future Leaders</title>
-    <meta name="description" content="Eminent Kids Montessori Schools provides quality Montessori-based education focused on holistic child development, creativity, and academic excellence.">
+    <title>Eminent Kids Montessori School | Nurturing Future Leaders</title>
+    <meta name="description" content="Eminent Kids Montessori School in Mowe, Ogun State provides nursery and primary education focused on academics, morals, creativity, confidence, and leadership.">
     <meta name="keywords" content="Montessori school Nigeria, nursery school, primary school, early childhood education, Eminent Kids School">
-    <meta name="author" content="Eminent Kids Montessori Schools">
+    <meta name="author" content="Eminent Kids Montessori School">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/images/fav.png">
 
     <!-- Open Graph (Facebook, WhatsApp, LinkedIn) -->
-    <meta property="og:title" content="Eminent Kids Montessori Schools">
-    <meta property="og:description" content="A nurturing Montessori environment where children grow academically, socially, and creatively.">
+    <meta property="og:title" content="Eminent Kids Montessori School">
+    <meta property="og:description" content="A world-class nursery and primary school committed to moulding learners academically, morally, socially, and creatively.">
     <meta property="og:image" content="assets/images/og-image.jpg">
     <meta property="og:url" content="https://eminentkidsschool.com/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Eminent Kids Montessori Schools">
-    <meta name="twitter:description" content="Quality Montessori education for early learners.">
+    <meta name="twitter:title" content="Eminent Kids Montessori School">
+    <meta name="twitter:description" content="Nursery and primary education in Mowe, Ogun State.">
     <meta name="twitter:image" content="assets/images/og-image.jpg">
 
     <!-- Google Fonts (Modern Typography) -->
@@ -44,6 +44,7 @@
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/eminent.css">
 
     <!-- Performance Improvements -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

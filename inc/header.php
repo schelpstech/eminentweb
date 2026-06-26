@@ -10,19 +10,14 @@
                     <a href="mailto:info@eminentkidsschool.com" class="email">
                         <i class="fa-light fa-envelope"></i> info@eminentkidsschool.com
                     </a>
-                    <a href="tel:+2348098008854" class="email">
-                        <i class="fa-light fa-phone"></i> +234 8098 008 854
+                    <a href="tel:+2348089008854" class="email">
+                        <i class="fa-light fa-phone"></i> +234 8089 008 854
                     </a>
                 </div>
 
-                <!-- Social -->
+                <!-- Location -->
                 <div class="right-information">
-                    <ul class="social-area">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        <li><a href="#"><i class="fab fa-tiktok"></i></a></li>
-                    </ul>
+                    <span class="ekms-top-note"><i class="fa-light fa-location-dot"></i> Mowe, Ogun State</span>
                 </div>
 
             </div>
@@ -36,8 +31,12 @@
 
                 <!-- Logo -->
                 <div class="left-side-header">
-                    <a href="index.php" class="logo-area">
-                        <img src="assets/images/logo/logo-1.svg" alt="Eminent Kids Montessori Schools">
+                    <a href="index.php" class="logo-area eminent-logo" aria-label="Eminent Kids Montessori School home">
+                        <span class="eminent-logo-mark">E</span>
+                        <span class="eminent-logo-text">
+                            Eminent Kids
+                            <small>Montessori School</small>
+                        </span>
                     </a>
                 </div>
 
@@ -53,11 +52,13 @@
                             <li class="has-dropdown">
                                 <a class="nav-link" href="#">Academics</a>
                                 <ul class="submenu">
-                                    <li><a href="preschool.php">Pre-School Classes</a></li>
-                                    <li><a href="nursery.php">Nursery Classes</a></li>
-                                    <li><a href="primary.php">Primary Classes</a></li>
+                                    <li><a href="preschool.php">Pre-School</a></li>
+                                    <li><a href="nursery.php">Nursery School</a></li>
+                                    <li><a href="primary.php">Primary School</a></li>
                                 </ul>
                             </li>
+
+                            <li><a class="nav-link" href="admissions.php">Admissions</a></li>
 
                             <li><a class="nav-link" href="events.php">Events</a></li>
 
